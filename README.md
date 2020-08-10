@@ -30,7 +30,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Nuevo videos de YouTube
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
