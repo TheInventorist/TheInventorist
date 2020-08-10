@@ -5,6 +5,10 @@
 
 - <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/youtube-squared.png"/> He realizado clases abirtas [gratuitas] online para estudiantes con ganas de aprender a programar.
 
+<br/>
+<br/>
+
+---
 
 ### Conecta conmigo:
 
