@@ -6,23 +6,23 @@
 
 ### Conecta conmigo:
 
-<a href= "https://theinventorist.cl">
+<a href= "https://theinventorist.cl" target="_blank">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 
-<a href= "https://www.youtube.com/channel/UCorEC6DwpOxSTTYtpImVI_w">
+<a href= "https://www.youtube.com/channel/UCorEC6DwpOxSTTYtpImVI_w" target="_blank">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-<a href= "https://twitter.com/TheInventorist">
+<a href= "https://twitter.com/TheInventorist" target="_blank">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href= "https://www.linkedin.com/in/vincent-depassier/">
+<a href= "https://www.linkedin.com/in/vincent-depassier/" target="_blank">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href= "https://www.instagram.com/the_inventorist/">
+<a href= "https://www.instagram.com/the_inventorist/" target="_blank">
   <img align="left" width="22px" src="ttps://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
