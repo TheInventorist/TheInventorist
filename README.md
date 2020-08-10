@@ -1,7 +1,7 @@
 ### Hola a todos, soy Vincent Depassier - [The Inventorist][website] 👋
 
 ## Soy un estudiante, profesor y apacionado por la tecnologia!
-- 🔭 Actualmente trabajo como ayudante de programacion en [<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/python.png"/>] [Python]
+- 🔭 Actualmente trabajo como ayudante de programacion en <img align="right" width="22px" src="https://img.icons8.com/color/48/000000/python.png"/>
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
