@@ -30,7 +30,7 @@
 
 ---
 
-### 📺 Nuevo videos de YouTube
+### 📺 Nuevos videos de YouTube
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
@@ -41,6 +41,7 @@
 
 
 <img align="left" alt="Vincent's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=theinventorist&repo=Material-Programacion)](https://github.com/TheInventorist/Material-Programacion" />
+
 
 [website]: https://theinventorist.cl
 [twitter]: https://twitter.com/TheInventorist
