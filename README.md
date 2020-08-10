@@ -39,6 +39,9 @@
 
 <img align="left" alt="Vincent's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheInventorist&show_icons=true&hide_border=true&count_private=true&theme=algolia" />
 
+
+<img align="left" alt="Vincent's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=theinventorist&repo=Material-Programacion)](https://github.com/TheInventorist/Material-Programacion" />
+
 [website]: https://theinventorist.cl
 [twitter]: https://twitter.com/TheInventorist
 [youtube]: https://www.youtube.com/channel/UCorEC6DwpOxSTTYtpImVI_w
