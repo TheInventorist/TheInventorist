@@ -37,7 +37,7 @@
 ---
 
 
-<img align="left" alt="Vincent's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheInventorist&show_icons=true&hide_border=true" />
+<img align="left" alt="Vincent's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheInventorist&show_icons=true&hide_border=true&count_private=truetheme=algolia" />
 
 [website]: https://theinventorist.cl
 [twitter]: https://twitter.com/TheInventorist
