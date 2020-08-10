@@ -1,4 +1,4 @@
-### Hola a todos, soy Vincent Depassier - [The Inventorist][website] 👋
+### Hola a todos, soy Vincent Depassier - [The Inventorist]👋
 
 ## Soy un estudiante, profesor y apacionado por la tecnologia!
 - <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/python.png"/> Actualmente trabajo como ayudante de programacion en Python
@@ -23,7 +23,7 @@
 </a>
 
 <a href= "https://www.instagram.com/the_inventorist/" target="_blank">
-  <img align="left" width="22px" src="ttps://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
@@ -37,8 +37,11 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
+<img align="left" alt="HTML5" width="26px" src="https://icons8.com/icon/103933/management" />
+<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />
+<img align="left" alt="HTML5" width="26px" src="https://icons8.com/icon/55251/c-sharp-logo" />
 
-<br />
 <br />
 
 ---
