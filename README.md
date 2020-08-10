@@ -6,30 +6,29 @@
 - <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/youtube-squared.png"/> He realizado clases abirtas [gratuitas] online para estudiantes con ganas de aprender a programar.
 
 <br/>
-<br/>
 
 ---
 
 ### Conecta conmigo:
 
 <a href= "https://theinventorist.cl" target="_blank">
-  <img align="left" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  <img align="left" width="44px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 
 <a href= "https://www.youtube.com/channel/UCorEC6DwpOxSTTYtpImVI_w" target="_blank">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <a href= "https://twitter.com/TheInventorist" target="_blank">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href= "https://www.linkedin.com/in/vincent-depassier/" target="_blank">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href= "https://www.instagram.com/the_inventorist/" target="_blank">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
