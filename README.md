@@ -1,7 +1,7 @@
 ### Hola a todos, soy Vincent Depassier - [The Inventorist][website] 👋
 
 ## Soy un estudiante, profesor y apacionado por la tecnologia!
-- 🔭 Actualmente trabajo como ayudante de programacion en <width="22px" src="https://img.icons8.com/color/48/000000/python.png"/>
+- 🔭 Actualmente trabajo como ayudante de programacion en <img align="center" width="22px" src="https://img.icons8.com/color/48/000000/python.png"/>
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -12,7 +12,7 @@ https://img.icons8.com/color/48/000000/python.png
 ### Connect with me:
 
 <a href= "https://theinventorist.cl">
-  <img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -20,7 +20,7 @@ https://img.icons8.com/color/48/000000/python.png
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br/>
 
 ### Lenguajes y herramientas:
 
@@ -54,6 +54,7 @@ https://img.icons8.com/color/48/000000/python.png
 <br/>
 <br/>
 <br/>
+
 ---
 
 ### Proyectos educativos
@@ -68,6 +69,10 @@ https://img.icons8.com/color/48/000000/python.png
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+
 ---
 
 ### Proyectos Open Source
