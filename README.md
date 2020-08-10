@@ -40,7 +40,9 @@
 <img align="left" alt="Vincent's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheInventorist&show_icons=true&hide_border=true&count_private=true&theme=algolia" />
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theinventorist&repo=Material-Programacion&theme=algolia)](https://github.com/TheInventorist/Material-Programacion")
+<a href="https://github.com/TheInventorist/Material-Programacion">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=theinventorist&repo=Material-Programacion&theme=algolia" />
+</a>
 
 
 [website]: https://theinventorist.cl
