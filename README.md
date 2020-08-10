@@ -1,4 +1,4 @@
-### Hola a todos, soy Vincent Depassier - aka [The Inventorist][website] 👋
+### Hola a todos, soy Vincent Depassier - [The Inventorist][website] 👋
 
 ## Soy un estudiante, profesor y apacionado por la tecnologia!
 - 🔭 I’m currently working on a [VS Code Course][website]!
@@ -65,8 +65,8 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-[website]: https://theinventoprist.cl
+[website]: https://theinventorist.cl
 [twitter]: https://twitter.com/TheInventorist
 [youtube]: https://www.youtube.com/channel/UCorEC6DwpOxSTTYtpImVI_w/featured?view_as=subscriber
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/the_inventorist/
 [linkedin]: https://www.linkedin.com/in/vincent-depassier/
