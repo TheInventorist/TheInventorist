@@ -2,7 +2,7 @@ name: Nuevos videos de YouTube
 on:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '1 * * * *'
   workflow_dispatch:
 
 jobs:
