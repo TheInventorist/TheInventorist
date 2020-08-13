@@ -102,6 +102,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=theinventorist&repo=Material-Programacion&theme=algolia" />
 </a>
 
+<a href="https://github.com/TheInventorist/MiniProyectos">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=theinventorist&repo=MiniProyectos&theme=algolia" />
+</a>
+
 <br/>
 <br/>
 <br/>
