@@ -1,6 +1,6 @@
 ### Hola a todos, soy Vincent Depassier - [The Inventorist]👋
 
-## Soy un estudiante, profesor y apacionado por la tecnologia!
+## Soy un estudiante, profesor y apasionado por la tecnologia!
 - <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/python.png"/> Actualmente trabajo como ayudante de programacion en Python
 
 - <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/youtube-squared.png"/> He realizado clases abirtas [gratuitas] online para estudiantes con ganas de aprender a programar.
