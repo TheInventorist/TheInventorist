@@ -76,11 +76,11 @@
 
 ### 📺 Nuevos videos de YouTube
 <!-- YOUTUBE:START -->
+- [Mi tesis en 1 minuto](https://www.youtube.com/watch?v=Xlotzoy2Id8)
+- [[Actividad] Node Red + Twitter](https://www.youtube.com/watch?v=yd66rWVBAdE)
+- [[Actividad] Machine Learning For Kids + Twitter](https://www.youtube.com/watch?v=xm8rmk1wtoY)
 - [[Clases 01] - Clase abierta online](https://www.youtube.com/watch?v=dFoNPUesiOI)
 - [[Módulos y Funciones 03] - Clase abierta online](https://www.youtube.com/watch?v=fORMl0fSgkU)
-- [[Módulos y Funciones 02] - Clase abierta online](https://www.youtube.com/watch?v=gGXp_Sf2Fmk)
-- [[Busca Minas 01] - Clase abierta online](https://www.youtube.com/watch?v=w7DTKutnrmA)
-- [[Listas 03] - Clase abierta online](https://www.youtube.com/watch?v=K6mO1-Q7PSw)
 <!-- YOUTUBE:END -->
 
 ---
