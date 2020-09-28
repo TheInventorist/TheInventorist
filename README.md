@@ -76,11 +76,11 @@
 
 ### 📺 Nuevos videos de YouTube
 <!-- YOUTUBE:START -->
+- [3Dlab Pitch 1 SantanderX Unab](https://www.youtube.com/watch?v=dua9nbogEm8)
 - [Mi tesis en 1 minuto](https://www.youtube.com/watch?v=Xlotzoy2Id8)
 - [[Actividad] Node Red + Twitter](https://www.youtube.com/watch?v=yd66rWVBAdE)
 - [[Actividad] Machine Learning For Kids + Twitter](https://www.youtube.com/watch?v=xm8rmk1wtoY)
 - [[Clases 01] - Clase abierta online](https://www.youtube.com/watch?v=dFoNPUesiOI)
-- [[Módulos y Funciones 03] - Clase abierta online](https://www.youtube.com/watch?v=fORMl0fSgkU)
 <!-- YOUTUBE:END -->
 
 ---
