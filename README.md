@@ -76,8 +76,11 @@
 
 ### 📺 Nuevos videos de YouTube
 <!-- YOUTUBE:START -->
+- [Pitch final torneo StartUp Creation Unab & SantanderX](https://www.youtube.com/watch?v=pt-Rs-Nti4I)
+- [Como usar Discord [Tutorial]](https://www.youtube.com/watch?v=6HIT6knXiks)
+- [VALPARAÍSO DESPUÉS DE LA TORMENTA](https://www.youtube.com/watch?v=4Ll53BbDSGg)
+- [3Dlab Pitch 1 SantanderX Unab](https://www.youtube.com/watch?v=dua9nbogEm8)
 - [Mi tesis en 1 minuto](https://www.youtube.com/watch?v=Xlotzoy2Id8)
-- [[Busca Minas 01] - Clase abierta online](https://www.youtube.com/watch?v=w7DTKutnrmA)
 <!-- YOUTUBE:END -->
 
 ---
