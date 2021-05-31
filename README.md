@@ -37,28 +37,18 @@
 <br/>
 <br/>
 
-### Lenguajes y frameworks:
+### Tengo habilidades en:
 
 
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" />
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/material-sharp/24/000000/django.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
-
-<br />
-
----
-
-### Herramientas:
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluent/48/000000/android-os.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/arduino.png"/>
+# Python          <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
+# CSharp          <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" />
+# Java            <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/>
+# Terminal / Bash <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+# Git             <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+# Unity3D         <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />
+# ASP.net         <img src="https://img.icons8.com/color/50/000000/asp.png"/>
+# AWS             <img src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/>
+# Minecraft       <img src="https://img.icons8.com/color/50/000000/minecraft-pickaxe.png"/>
 
 
 <br />
