@@ -40,15 +40,15 @@
 ### Tengo habilidades en:
 
 
-- <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />Python
-- <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" />CSharp
-- <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/>Java
-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />Terminal / Bash
-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />Git
-- <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />Unity3D
-- <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/asp.png"/>ASP.net
-- <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/>AWS
-- <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/minecraft-pickaxe.png"/>Minecraft
+- <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />Python<br />
+- <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" />CSharp<br />
+- <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/>Java<br />
+- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />Terminal / Bash<br />
+- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />Git<br />
+- <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />Unity3D<br />
+- <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/asp.png"/>ASP.net<br />
+- <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/>AWS<br />
+- <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/minecraft-pickaxe.png"/>Minecraft<br />
 
 
 <br />
