@@ -40,15 +40,15 @@
 ### Tengo habilidades en:
 
 
-- Python          <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
-- CSharp          <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" />
-- Java            <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/>
-- Terminal / Bash <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-- Git             <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-- Unity3D         <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />
-- ASP.net         <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/asp.png"/>
-- AWS             <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/>
-- Minecraft       <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/minecraft-pickaxe.png"/>
+- Python<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
+- CSharp<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" />
+- Java<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/>
+- Terminal / Bash<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+- Git<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+- Unity3D<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />
+- ASP.net<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/asp.png"/>
+- AWS<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/>
+- Minecraft<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/minecraft-pickaxe.png"/>
 
 
 <br />
