@@ -1,9 +1,6 @@
 ### Hi! I am Vincent Depassier - [The Inventorist]👋
 
 ## I love videogames, simulations and physics!
-- <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/python.png"/> Actualmente trabajo como ayudante de programación en Python
-
-- <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/youtube-squared.png"/> He realizado clases abiertas [gratuitas] online para estudiantes con ganas de aprender a programar.
 
 <br/>
 
@@ -37,9 +34,7 @@
 <br/>
 <br/>
 
-### <p><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" /> Is my sword and <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> my Shield</p>
-
-
+<p><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" /> Is my sword and <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> my Shield</p>
 
 <br />
 
