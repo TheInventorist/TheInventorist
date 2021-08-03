@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-<p><img align="left" alt="HTML5" width="20px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" /> Is my sword and <img alt="HTML5" width="20px" src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png"/> my Shield</p>
+<p><img align="left" alt="HTML5" width="25px" src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" /> Is my sword and <img alt="HTML5" width="25px" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> my Shield</p>
 
 <br />
 
