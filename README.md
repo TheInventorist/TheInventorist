@@ -4,8 +4,6 @@
 
 <br/>
 
----
-
 ### My Networks:
 
 <a href= "https://www.youtube.com/channel/UCorEC6DwpOxSTTYtpImVI_w" target="_blank">
@@ -30,7 +28,7 @@
 <br/>
 <br/>
 
-<p align-items=center><img alt="HTML5" width="25px" src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" /> Is my sword and <img alt="HTML5" width="25px" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> my Shield</p>
+<p><img alt="HTML5" width="25px" src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" /> Is my sword and <img alt="HTML5" width="25px" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> my Shield</p>
 
 <br />
 
