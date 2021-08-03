@@ -8,10 +8,6 @@
 
 ### My Networks:
 
-<!--><a href= "https://theinventorist.cl" target="_blank">
-  <img align="left" width="44px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a><-->
-
 <a href= "https://www.youtube.com/channel/UCorEC6DwpOxSTTYtpImVI_w" target="_blank">
   <img align="left" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
@@ -34,7 +30,7 @@
 <br/>
 <br/>
 
-<p><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" /> Is my sword and <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> my Shield</p>
+<p><img align="left" alt="HTML5" width="20px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" /> Is my sword and <img alt="HTML5" width="20px" src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png"/> my Shield</p>
 
 <br />
 
