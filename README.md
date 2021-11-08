@@ -36,7 +36,7 @@
 ### 📺 YouTube videos:
 <!-- YOUTUBE:START -->
 - [HummingBirds - Unity3D by Inmersive limit](https://www.youtube.com/watch?v=owcHK2z_PbY)
-- [Pitch final torneo StartUp Creation Unab & SantanderX](https://www.youtube.com/watch?v=pt-Rs-Nti4I)
+- [Pitch final torneo StartUp Creation Unab &amp; SantanderX](https://www.youtube.com/watch?v=pt-Rs-Nti4I)
 - [Como usar Discord [Tutorial]](https://www.youtube.com/watch?v=6HIT6knXiks)
 - [VALPARAÍSO DESPUÉS DE LA TORMENTA](https://www.youtube.com/watch?v=4Ll53BbDSGg)
 - [3Dlab Pitch 1 SantanderX Unab](https://www.youtube.com/watch?v=dua9nbogEm8)
